@@ -18,7 +18,7 @@
     "@vitest/browser-playwright": "^4.0.17",
     "@vitest/browser-preview": "^4.0.17",
     "oxfmt": "^0.28.0",
-    "oxlint": "^1.43.0",
+    "oxlint": "^1.94.0",
     "turbo": "2.8.14",
     "typescript": "5.9.3",
     "ultracite": "7.1.4",
